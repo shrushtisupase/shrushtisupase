@@ -4,9 +4,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Shrushti!+👋;Full+Stack+Developer;Aspiring+Software+Development+Engineer;Always+Learning+&+Building!&center=true&width=500&height=50&color=3982CE&vCenter=true&size=22">
-  </a>
+  Hey, I'm Shrushti Supase 👋
 </h1>
 
 <p align="center">
